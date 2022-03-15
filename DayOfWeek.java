@@ -8,7 +8,7 @@ public class DaysofWeek{
   public static void main(String[] args) {
 
 
-    System.out.println(dayOfWeek(SimpleDate(2021,5,3)));
+    
     System.out.println(dayOfWeek(14, 8, 1947));
     System.out.println(dayOfWeek(1, 1, 2000));
 
